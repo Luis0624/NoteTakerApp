@@ -35,9 +35,9 @@ Demo image for cloning github repo
 
 [Github Repo](https://github.com/Luis0624/NoteTakerApp)
 
-[Deployed Github pages link](https://luis0624.github.io//)
+[Deployed Github pages link](https://luis0624.github.io/NoteTakerApp/)
 
-[Deployed Heroku link]()
+[Deployed Heroku link](https://blooming-plateau-19138.herokuapp.com/)
 
 Sample Images of Deployed App
 ![Working Demo Picture ](public/assets/images/demoHome.png)
